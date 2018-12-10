@@ -1,2 +1,2 @@
 # gfc
-gujrat flying club
+Gujrat Flying Club
